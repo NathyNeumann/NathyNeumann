@@ -45,5 +45,5 @@ I'm a Full Stack Junior Developer from Blumenau, Brazil.
 
   
 
-![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DNathyNeumann)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=@NathyNeumann)
 
